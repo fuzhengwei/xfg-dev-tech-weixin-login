@@ -1,0 +1,13 @@
+server:
+  port: 8091
+
+weixin:
+  config:
+    originalid: gh_e067c267e056
+    app-id: wx5a228ff69e28a91f
+    app-secret: 0bea03aa1310bac050aae79dd8703928
+
+logging:
+  level:
+    root: info
+  config: classpath:logback-spring.xml
